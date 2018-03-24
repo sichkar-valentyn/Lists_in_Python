@@ -1,3 +1,14 @@
+# File: Lists_in_Python.py
+# Description: How to create and use lists in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Lists in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Lists_in_Python (date of access: XX.XX.XXXX)
+
 students = ['Ivan', 'Masha', 'Sasha']
 for s in students:
     print('Hello, ' + s + '!')  # We use here + s + instead of comma in order to connect them without gaps
