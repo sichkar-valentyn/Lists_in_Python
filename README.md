@@ -8,7 +8,7 @@ Examples how to create Lists and use them in Python
 Program shows how to create and use Lists in Python.
 
 ## Results of slicing
-![Results](images/Lists_in_Python.png)
+![Lists_in_Python](images/Lists_in_Python.png)
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
